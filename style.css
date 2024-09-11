@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(156, 109, 87)
+}
+
+
+.Title{
+    text-align: center;
+
+
+}
+
+.intro{
+
+
+}
+
+.Steak{
+    height: 750px;
+    width: 500px;
+    border: 8px solid black;
+    margin: auto;
+}
+
+.imgs{
+    width: 500px;
+}
