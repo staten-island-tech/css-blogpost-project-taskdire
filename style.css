@@ -14,13 +14,46 @@ body{
 
 }
 
-.Steak{
-    height: 750px;
+.Steakborder{
+    height: 820px;
     width: 500px;
     border: 8px solid black;
     margin: auto;
 }
 
-.imgs{
+.steakimg{
     width: 500px;
+    height: 750px;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Eggborder{
+    height: 555px;
+    width: 500px;
+    border: 8px solid yellow;
+    margin: auto;
+}
+
+.eggimg{
+
+    width: 500px;
+ 
+}
+
+.Chickenborder{
+    height: 830px;
+    width: 500px;
+    border: 8px solid rgba(155, 58, 46, 0.452);
+    margin: auto;
+}
+
+.Chickenimg{
+
+    width: 500px;
+ 
 }
